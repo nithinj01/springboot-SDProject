@@ -1,0 +1,5 @@
+net/SD/springboot/tutorial/repository/AssessService.class
+net/SD/springboot/tutorial/Application.class
+net/SD/springboot/tutorial/entity/Assessment.class
+net/SD/springboot/tutorial/repository/AssessmentRepo.class
+net/SD/springboot/tutorial/controller/AssessmentController.class
